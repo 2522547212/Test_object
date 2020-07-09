@@ -94,7 +94,7 @@ namespace _7._8EXCEL操作
 
             this.textBox2.Clear();
             this.textBox3.Clear();
-            this.textBox4.Clear();
+            this.textBox4.Clear();      
             this.textBox5.Clear();
 
            
