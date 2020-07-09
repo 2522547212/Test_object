@@ -97,8 +97,7 @@ namespace _7._8EXCEL操作
             this.textBox4.Clear();
             this.textBox5.Clear();
 
-            Console.WriteLine("1");
-            Console.WriteLine("1");
+           
 
         }
 
