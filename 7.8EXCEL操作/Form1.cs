@@ -96,6 +96,8 @@ namespace _7._8EXCEL操作
             this.textBox3.Clear();
             this.textBox4.Clear();
             this.textBox5.Clear();       
+
+
         }
 
         private void button7_Click(object sender, EventArgs e)
